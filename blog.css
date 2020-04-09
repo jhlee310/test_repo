@@ -1,0 +1,52 @@
+
+head {
+    text-align: center;
+}
+
+body {
+    background: rgb(53, 89, 156);
+    background: linear-gradient(-45deg, rgb(53, 89, 156), rgb(154, 181, 212));
+    color: white;
+}
+h1 {
+
+}
+h2 {
+}
+h3 {
+    color: greenyellow;
+    font-size: large;
+}
+
+a {
+    background-color: whitesmoke;
+}
+#lion1 {
+    text-align: right;
+}
+.paragraph1 {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+    font-weight: lighter;
+}
+.preference-box {
+    margin-left: 20px;
+    margin-right: 200px;
+    border: 2px solid black;
+}
+.title {
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 500;
+    color: White;
+    text-align: center;
+    margin-top: 100px;
+}
+.subtitle {
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 500;
+    color: White;
+    text-align: center;
+}
