@@ -41,7 +41,6 @@
     }
     
     .account_information {
-        position: relative;
         margin-top: 40px;
         display: flex;
         justify-content: flex-start;
@@ -49,15 +48,6 @@
         background-color: rgb(250, 250, 250);
         border-bottom: 1px solid rgb(202, 202, 202);
     }
-    
-    /* body {
-        margin-top: 0;
-        margin-bottom: 0;
-        padding-top: 0;
-        padding-bottom: 0;
-        width: 100%;
-        height: 100%;
-    } */
     
     .copyright {
         text-transform: uppercase;
@@ -70,7 +60,6 @@
     
     .copyright_icon {
         text-align: center;
-        position: relative;
         padding-top: 4px;
         padding-right: 3px;
     
@@ -96,7 +85,6 @@
     
     
     .instagram_logo {
-        position: relative;
         height: 1.0rem;
         width: auto;
         margin-top: 10px;
@@ -105,22 +93,18 @@
     
     }
     .jaehun_image {
-        position: relative;
         height: auto;
-        width: 30%;
         display: flex;
-        margin-left: 20px;
-        
+        margin: 2%;
+        width: 90%;
+        height: auto;
     }
     
     .main-image {
         display: flex;
-        justify-content: flex-start;
-        position: relative;
-        margin-left: 3%;
+        margin: 3%;
         background-color: rgb(250, 250, 250);
         flex-direction: column;
-        width: 70rem;
     }
     
     .out-of-fixed {
@@ -133,7 +117,6 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        position: relative;
         padding-left: 4px;
         padding-right: 4px;
     }
@@ -151,14 +134,12 @@
         
     }
     .top_right {
-        position: relative;
         width: 1rem;
         display: flex;
     }
     .line {
         display: flex;
         justify-content: space-between;
-        position: relative;
         margin: 2%;
         width: 100%;
     
@@ -166,14 +147,11 @@
     
     .line3 {
         display: flex;
-        justify-content: ;
-        position: relative;
         margin: 2%;
         width: 100%;   
     }
     
     .horizontal_list {
-        position: relative;
         display: flex;
         justify-content: space-around;
         margin-left: 20%;
@@ -352,7 +330,6 @@
     .line3 {
         display: flex;
         justify-content: ;
-        position: relative;
         margin: 2%;
         width: 100%;   
     }
